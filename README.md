@@ -120,7 +120,7 @@ Série progressiva desenvolvida ao longo do Projeto de Bloco, cobrindo classific
 
 <div align="center">
 
-[![Prévia da apresentação](https://drive.google.com/thumbnail?id=1EG_clsJNdOgSpa61jL4ieBnXsNTmyVp0&sz=w640)](https://drive.google.com/file/d/1EG_clsJNdOgSpa61jL4ieBnXsNTmyVp0/view?usp=sharing)
+[![Prévia da apresentação](doc/images/pb_preview.png)](https://drive.google.com/file/d/1EG_clsJNdOgSpa61jL4ieBnXsNTmyVp0/view?usp=sharing)
 
 [![Assistir apresentação](https://img.shields.io/badge/Google_Drive-▶_APRESENTAÇÃO_DO_PROJETO_DE_BLOCO-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1EG_clsJNdOgSpa61jL4ieBnXsNTmyVp0/view?usp=sharing)
 
